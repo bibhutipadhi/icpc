@@ -1,0 +1,6 @@
+{
+  "name": "ICPC India Selection Simulator & Seat Finder",
+  "description": "ICPC India Preliminary to Regional General Team Selection (360 Slots) simulator and College Seat Number Finder with institutional caps and pass analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
